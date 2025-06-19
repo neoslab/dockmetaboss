@@ -1,5 +1,8 @@
 # Solana Rust Dev Environment (Ubuntu 24.04)
 
+![Docker Version](https://img.shields.io/badge/docker-2.37.1%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 This Docker image provides a comprehensive and ready-to-use Solana smart contract development environment built on **Ubuntu 24.04**. It's designed for developers working with the Solana blockchain using **Rust**, **Anchor**, **SPL Token CLI**, and **Metaboss**.
 
 * * *
