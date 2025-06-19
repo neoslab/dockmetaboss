@@ -1,4 +1,4 @@
-# Solana Rust Dev Environment (Ubuntu 24.04)
+# Solana Metaboss Docker Image
 
 ![Docker Version](https://img.shields.io/badge/docker-2.37.1%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
